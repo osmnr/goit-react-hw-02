@@ -1,5 +1,5 @@
 
-const Description = (props) => {
+const Description = () => {
   return (
    <>
    <h1>Sip Happens Café</h1>
